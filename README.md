@@ -7,4 +7,4 @@
 
 ## Исходник для приватного сервера Pony Town
 
-[![AppVeyor](https://github.com/kaurcev/pixel.horse)](https://github.com/kaurcev/pixel.horse)
+[Перейти](https://github.com/kaurcev/pixel.horse)
