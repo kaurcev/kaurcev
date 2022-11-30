@@ -5,4 +5,6 @@
 
 ## Исходник для приватного сервера Pony Town
 
+<iframe src="https://pony.town"></iframe>
+
 [:unlock: Перейти](https://github.com/kaurcev/pixel.horse)
