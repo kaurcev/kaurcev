@@ -7,3 +7,4 @@
 
 ## Исходник для приватного сервера Pony Town
 
+[Перейти](https://github.com/kaurcev/pixel.horse)
