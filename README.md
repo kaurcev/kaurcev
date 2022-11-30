@@ -1,8 +1,8 @@
 <img src="/asd.jpg">
 
-# Александр Каурцев
+# Александр Каурцев :white_check_mark:
 
-:white_check_mark:
+
 
 :negative_squared_cross_mark:
 
