@@ -9,7 +9,7 @@
 # VK UI
 
 <h1 align="center">
-  <a href="https://vkcom.github.io/VKUI/"><img src="https://github.com/kaurcev/VKUI/styleguide/assets/static/vkui_logo.png?raw=true" width="300" alt="VKUI logo"></a>
+  <a href="https://vkcom.github.io/VKUI/"><img src="https://raw.githubusercontent.com/kaurcev/VKUI/master/styleguide/assets/static/vkui_logo.png" width="300" alt="VKUI logo"></a>
 </h1>
 <p align="center">
   <a href="LICENSE"><img src="https://img.shields.io/npm/l/@vkontakte/vkui?maxAge=3600" alt="license mit"></a>
