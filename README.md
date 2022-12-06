@@ -30,7 +30,7 @@ To discuss licensing, contact `ponytownhelp@gmail.com`.
 
 [<img src="/twitter.svg">](https://twitter.com/kaurcev) [<img src="/vk.svg">](https://vk.com/kaurcev) [<img src="/boosty.svg">](https://boosty.to/kaurcev)
 
-![Discord](https://img.shields.io/discord/888102048413937684?style=social)
+![Discord](https://img.shields.io/discord/888102048413937684?style=flat-square)
 
 # Личный сайт
 
