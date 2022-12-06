@@ -38,6 +38,6 @@ To discuss licensing, contact `ponytownhelp@gmail.com`.
 
  <img  style="background-color: #fff" src="/logo.svg">
 
-[<img src="https://mini.s-shot.ru/1920x1080/1000/png/?http://beta.kaurcev.tk">](https://beta.kaurcev.tk)
+[<img src="https://mini.s-shot.ru/1920x1080/1000/png/?http://beta.kaurcev.tk/ui">](https://beta.kaurcev.tk)
 
 
