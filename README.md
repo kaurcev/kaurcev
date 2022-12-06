@@ -3,7 +3,7 @@
 
 <p align="center">
  
-[![trophy](https://github-profile-trophy.vercel.app/?username=kaurcev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaurcev&show_icons=true&theme=transparent)
  
 </p>
 
