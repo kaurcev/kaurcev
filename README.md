@@ -14,7 +14,7 @@ The assets cannot be used for commercial purposes in any way including crowdfund
 See `LICENSE_CODE.txt`, `LICENSE_ART.txt` and `LICENSE_MUSIC.txt` files for definitions.
 To discuss licensing, contact `ponytownhelp@gmail.com`.
 
-[:unlock: Перейти](https://github.com/kaurcev/pixel.horse
+[:unlock: Перейти](https://github.com/kaurcev/pixel.horse)
 
 ## Changelog
 
