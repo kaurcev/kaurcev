@@ -1,5 +1,8 @@
 # Исходник для приватного сервера Pony Town
 
+[<img style="margin: 0 auto;" src="https://pony.town/assets/images/logo-large-57d9b1947a.png">](https://pony.town) 
+
+
 [:unlock: Перейти](https://github.com/kaurcev/pixel.horse)
 
 ## Социальные сети
