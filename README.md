@@ -33,7 +33,7 @@ To discuss licensing, contact `ponytownhelp@gmail.com`.
 
 # Личный сайт
 
-<p align="center">
+<p backgroung:"#fff" align="center">
  <img src="/logo.svg">
 </p>
 
