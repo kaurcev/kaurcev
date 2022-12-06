@@ -1,14 +1,18 @@
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Alexsandr+Kaurcev)](https://git.io/typing-svg)
-
 <p align="center">
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaurcev&show_icons=true&theme=transparent)
  
 </p>
 
+## Социальные сети
 
-## Pony Town Custom Server
+[<img src="/twitter.svg">](https://twitter.com/kaurcev) [<img src="/vk.svg">](https://vk.com/kaurcev) [<img src="/boosty.svg">](https://boosty.to/kaurcev)
+
+![Discord](https://img.shields.io/discord/888102048413937684?style=flat-square)
+
+
+# Pony Town Custom Server
 
 <p align="center">
  <img src="/logo-large-57d9b1947a.png">
@@ -33,13 +37,6 @@ To discuss licensing, contact `ponytownhelp@gmail.com`.
 - Fixed issues with kiss animation while turning head
 - Added additional server performance stats to the admin panel
 - Changed the button on admin panel that removes old events from 10min to 1day
-
-
-## Социальные сети
-
-[<img src="/twitter.svg">](https://twitter.com/kaurcev) [<img src="/vk.svg">](https://vk.com/kaurcev) [<img src="/boosty.svg">](https://boosty.to/kaurcev)
-
-![Discord](https://img.shields.io/discord/888102048413937684?style=flat-square)
 
 # Личный сайт
 
