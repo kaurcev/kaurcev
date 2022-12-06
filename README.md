@@ -1,8 +1,8 @@
 # Исходник для приватного сервера Pony Town
 
-<div style="text-align: center;"><img src="/logo-large-57d9b1947a.png"></div>
-
-
+<p align="center">
+ <img src="/logo-large-57d9b1947a.png">
+</p>
 
 [:unlock: Перейти](https://github.com/kaurcev/pixel.horse)
 
