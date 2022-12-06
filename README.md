@@ -33,9 +33,13 @@ To discuss licensing, contact `ponytownhelp@gmail.com`.
 
 # Личный сайт
 
-<p backgroung:"#fff" align="center">
+<div style="backgroung-color:#ffffff;">
+
+<p align="center">
  <img src="/logo.svg">
 </p>
+
+</div>
 
 [<img src="https://mini.s-shot.ru/1920x1080/1080/png/?http://beta.kaurcev.tk">](https://beta.kaurcev.tk)
 
