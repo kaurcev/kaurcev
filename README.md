@@ -1,5 +1,5 @@
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Pony Town)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Pony_Town)](https://git.io/typing-svg)
 
 <p align="center">
  <img src="/logo-large-57d9b1947a.png">
