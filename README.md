@@ -1,6 +1,6 @@
 # Исходник для приватного сервера Pony Town
 
-<div style="margin: 0 auto; width: 100%;  text-align: center;"><img src="/logo-large-57d9b1947a.png"></div>
+<div style="text-align: center;"><img src="/logo-large-57d9b1947a.png"></div>
 
 
 
