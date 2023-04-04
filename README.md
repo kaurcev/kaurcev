@@ -1,10 +1,11 @@
 
 
 # About me
-
+<div style="display: flex;justify-content: space-around; text-align: center; width: 1000px">
 <img src="logo-large-57d9b1947a.png">
+</div>
 
-<div style="display: flex;justify-content: space-around; align-items: center; width: 1000px">
+<div style="display: flex;justify-content: space-around; text-align: center; width: 1000px">
  <img src="no-no.gif" >
  
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=kaurcev&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/kaurcev/github-readme-stats#gh-dark-mode-only)
