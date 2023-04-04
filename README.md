@@ -1,7 +1,7 @@
 
 
 # About me
-<p style="text-align: center; width: 1000px">
+<p style="text-align: center;">
 <img src="logo-large-57d9b1947a.png">
 </p>
 
