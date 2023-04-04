@@ -1,9 +1,9 @@
 
 
 # About me
-<div style="display: flex;justify-content: space-around; text-align: center; width: 1000px">
+<p style="text-align: center; width: 1000px">
 <img src="logo-large-57d9b1947a.png">
-</div>
+</p>
 
 <div style="display: flex;justify-content: space-around; text-align: center; width: 1000px">
  <img src="no-no.gif" >
