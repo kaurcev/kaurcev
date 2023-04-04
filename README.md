@@ -5,3 +5,4 @@
 ![Discord](https://img.shields.io/discord/888102048413937684?style=flat-square)
 
 
+<img src="no-no.gif" />
