@@ -1,14 +1,11 @@
 
-<p style="text-align: center;">
-<img src="logo-large-57d9b1947a.png">
+<p align="center">
+  <img src="logo-large-57d9b1947a.png">
 </p>
 
-<div style="display: flex;justify-content: space-around; text-align: center; width: 1000px">
- <img src="no-no.gif" >
- 
- 
-
-</div>
+<p align="center">
+   <img src="no-no.gif" >
+</p>
 
 
 # About me
