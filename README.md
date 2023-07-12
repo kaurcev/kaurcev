@@ -1,4 +1,4 @@
-
+ 
 <p align="center">
   <img src="logo-large-57d9b1947a.png">
 </p>
@@ -42,6 +42,10 @@
 @kaurcev — 0.5К
 
 ### Facebook
+
+https://raw.githubusercontent.com/kaurcev/kaurcev/main/IMG_20230712_150650_746.jpg
+
+кому надо, ищите лично, я там с 2021 не появлялся
 
 ##### Если вам сказали об этом профиле, то поздравляю, вы попали на рекламу kaurcev.space
 
