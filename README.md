@@ -23,6 +23,6 @@
   
 ![Discord](https://img.shields.io/discord/888102048413937684?style=flat-square)
 ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/kaurcev.tk?publish&style=flat-square)
-![Website](https://img.shields.io/website?style=flat-square&url=https%3A%2F%2Fkaurcev.tk)
+![Website](https://img.shields.io/website?style=flat-square&url=https://kaurcev.space)
   
 </p>
