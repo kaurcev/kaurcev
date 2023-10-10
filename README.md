@@ -26,28 +26,3 @@
 ![Website](https://img.shields.io/website?style=flat-square&url=https%3A%2F%2Fkaurcev.tk)
   
 </p>
-
-### Tiktok
-
-1) @kaurcev — 4.9К
-2) @lolpr42 — 4.2К
-3) @kotoskal — 21.1К
-
-### ВКонтакте
-
-@kaurcev — 0.5К
-
-### Twitter
-
-@kaurcev — 0.5К
-
-### Facebook
-
-https://raw.githubusercontent.com/kaurcev/kaurcev/main/IMG_20230712_150650_746.jpg
-
-кому надо, ищите лично, я там с 2021 не появлялся
-
-##### Если вам сказали об этом профиле, то поздравляю, вы попали на рекламу kaurcev.space
-
-мы запустили свой аналог Твиттера
-
