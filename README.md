@@ -17,7 +17,7 @@
   
 </p>
 
-## My Social & kaurcev.tk
+## My Social & kaurcev.space
 
 <p align="center">
   
