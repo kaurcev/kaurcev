@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-   <img src="https://dev.jyver.fun/img/logo.png" >
+   <img src="//dev.jyver.fun/img/logo.png" >
 </p>
 
 
