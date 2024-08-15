@@ -9,6 +9,11 @@
    <img src="no-no.gif" >
 </p>
 
+<p align="center">
+   <img src="https://dev.jyver.fun/img/logo.png" >
+</p>
+
+
 ## About me
 
 <p align="center">
