@@ -8,6 +8,6 @@
   
 ![Discord](https://img.shields.io/discord/888102048413937684?style=flat-square)
 ![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade-score/app.umarketshop.site?publish&style=flat-square)
-![Website](https://img.shields.io/website?style=flat-square&url=https://social.qelly.tech)
+![Website](https://img.shields.io/website?style=flat-square&url=https://alexsandr.kaurcev.space)
   
 </p>
