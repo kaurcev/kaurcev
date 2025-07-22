@@ -19,3 +19,5 @@
 
 ![Актуальное состояние личного сйта](https://mini.s-shot.ru/1366x768/4000/jpeg/?https://kaurcev.dev)
 > Доделаю однажды
+
+![](https://komarev.com/ghpvc/?username=kaurcev)
