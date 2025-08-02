@@ -12,3 +12,5 @@
 > Не уважаю вайбкодеров
 
 ![](https://komarev.com/ghpvc/?username=kaurcev)
+
+![zov]([http://url/to/img.png](https://github.com/kaurcev/kaurcev/blob/main/no-no.gif?raw=true))
