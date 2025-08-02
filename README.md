@@ -13,4 +13,6 @@
 
 ![](https://komarev.com/ghpvc/?username=kaurcev)
 
-![zov]([http://url/to/img.png](https://github.com/kaurcev/kaurcev/blob/main/no-no.gif?raw=true))
+<p style="text-align: center;">
+  <img src="https://raw.githubusercontent.com/kaurcev/kaurcev/refs/heads/main/no-no.gif" alt="no-no"
+</p>
