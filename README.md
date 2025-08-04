@@ -1,4 +1,4 @@
-<h1 align="center">Александр Каурцев | Fullstack Developer</h1>
+<h1 align="center">Александр Каурцев | Fullstack Web Developer</h1>
 
 <div align="center">
   <a href="https://kaurcev.dev" target="_blank">
