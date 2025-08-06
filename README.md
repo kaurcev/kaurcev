@@ -44,8 +44,6 @@
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=kaurcev&theme=graywhite&border_radius=6&mode=weekly)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaurcev&layout=compact&theme=graywhite&hide_border=true)](https://github.com/kaurcev)
 
 ![](https://komarev.com/ghpvc/?username=kaurcev&color=0D8FDB&style=flat-square)
