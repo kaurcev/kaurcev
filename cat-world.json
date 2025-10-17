@@ -1,6 +1,12 @@
 {
   "servers" : [
     {
+      "name":"Cat's World Public",
+      "desc": "Основной сервер",
+      "host":"mz.mizura.ru",
+      "port":"8080"
+    },
+    {
       "name":"develop server",
       "desc": "сервер разработки",
       "host":"127.0.0.1",
