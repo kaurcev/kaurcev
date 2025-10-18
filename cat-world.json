@@ -1,10 +1,9 @@
 {
   "globle":{
     "hot": {
-      "title":"Да здравствует первопродец!",
-      "desc":"Мы рады видеть тебя, путник! Наш мир только начал своё функционирование и поэтому позволь тебе показать наш мир!",
-      "img":"https://salt.spb.ru/assets/pony.gif",
-      "activity":"https://kaurcev.dev/cats"      
+      "title":"Не образай внимания, мы работает",
+      "desc":"Работы много, не хочешь поработать?",
+      "img":"https://i.pinimg.com/originals/d2/6d/47/d26d473683d1fd6eddb958a609b2c382.gif",
     }
   },
   "servers" : [
