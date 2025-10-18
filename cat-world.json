@@ -12,7 +12,7 @@
       "lang":"🇷🇺",
       "name":"Общий",
       "desc": "Основной сервер",
-      "host":"api.ctw.mizura.ru",
+      "host":"api.ctw.kaurcev.dev",
       "port":"443",
       "version":"1.0.0",
       "build": "3"
