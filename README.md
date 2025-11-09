@@ -14,3 +14,5 @@
 </div>
 
 > резюме на [career.habr.com](https://career.habr.com/kaurcev)
+
+> реальность [такова](https://kaqu.ru)
