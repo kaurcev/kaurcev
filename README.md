@@ -1,7 +1,10 @@
-<h1 align="center">Александр Каурцев | Fullstack Web Developer</h1>
-
+<h1>Александр Каурцев | FullStack developer | Software Engineer/Architect</h1>  
 мне не хватает времени доработать репозитории...
 
-> резюме на [career.habr.com](https://career.habr.com/kaurcev)
+<h3>Технологический стек</h3>
+<ul><li><strong>Frontend:</strong>&nbsp;React, JavaScript (ES6+), TypeScript</li><li><strong>Backend:</strong>&nbsp;.NET 6.0–8.0 (ASP.NET Core)</li><li><strong>Databases:</strong>&nbsp;PostgreSQL, MySQL, Microsoft SQL Server</li><li><strong>Infrastructure & DevOps:</strong>&nbsp;Docker, Docker Compose, Git, CI/CD</li></ul>
+<h3>Квалификация и достижения</h3>
+<ul><li><strong>Двукратный призер чемпионатов по профессиональному мастерству</strong>:&nbsp;серебряная медаль в компетенции "Программные решения для бизнеса" (2023) и "Веб-технологии" (2024).<p>Соревнования проводились в рамках Всероссийского чемпионатного движения «Профессионалы» (преемник WorldSkills в РФ).</p></li><li><p><strong>Реализовал полный цикл разработки автономной системы ETL-интеграции медицинских данных между региональным и федеральным сегментами:&nbsp;</strong>В условиях работы с legacy-стеком спроектировал и внедрил "с нуля" механизм аутентификации на базе стандарта RFC-7519 (JWT), обеспечив безопасность передачи данных и соответствие современным требованиям в рамках архитектурных ограничений.</p></li><li><strong>Проектирование и разработка децентрализованного мессенджера</strong>:&nbsp;на базе технологии P2P.<p>Реализация передачи данных через WebRTC (Data Channels) с использованием IndexedDB. <a href="https://blog.kaurcev.dev/50o2AqBnlV4" rel="nofollow" target="_blank">Статья о написании</a>&nbsp;и <a href="https://chat.kaurcev.dev" rel="nofollow" target="_blank">рабочий прототип</a></p></li><li><strong>Авторство open-source решения</strong>&nbsp;— NPM-пакет&nbsp;<a href="https://www.npmjs.com/package/yoomoney-widget" rel="nofollow" target="_blank">yoomoney-widget</a>.<p>Оптимизированная интеграция платежных форм.</p></li></ul>
+<p><em>Подробнее: https://kaurcev.dev<br>Имеется технический канал где я рассказываю обо всём:&nbsp;https://t.me/s/typicalfolder</em></p>
 
-> реальность [такова](https://kaqu.ru)
+> резюме на [career.habr.com](https://career.habr.com/kaurcev/print.pdf)
