@@ -1,10 +1,57 @@
-<h1>Александр Каурцев | FullStack developer | Software Engineer/Architect</h1>  
-мне не хватает времени доработать репозитории...
+# Александр Каурцев | FullStack Developer | Software Engineer/Architect
 
-<h3>Технологический стек</h3>
-<ul><li><strong>Frontend:</strong>&nbsp;React, JavaScript (ES6+), TypeScript</li><li><strong>Backend:</strong>&nbsp;.NET 6.0–8.0 (ASP.NET Core)</li><li><strong>Databases:</strong>&nbsp;PostgreSQL, MySQL, Microsoft SQL Server</li><li><strong>Infrastructure & DevOps:</strong>&nbsp;Docker, Docker Compose, Git, CI/CD</li></ul>
-<h3>Квалификация и достижения</h3>
-<ul><li><strong>Двукратный призер чемпионатов по профессиональному мастерству</strong>:&nbsp;серебряная медаль в компетенции "Программные решения для бизнеса" (2023) и "Веб-технологии" (2024). Соревнования проводились в рамках Всероссийского чемпионатного движения «Профессионалы» (преемник WorldSkills в РФ).</li><li><p><strong>Реализовал полный цикл разработки автономной системы ETL-интеграции медицинских данных между региональным и федеральным сегментами:&nbsp;</strong>В условиях работы с legacy-стеком спроектировал и внедрил "с нуля" механизм аутентификации на базе стандарта RFC-7519 (JWT), обеспечив безопасность передачи данных и соответствие современным требованиям в рамках архитектурных ограничений.</p></li><li><strong>Проектирование и разработка децентрализованного мессенджера</strong>:&nbsp;на базе технологии P2P.<p>Реализация передачи данных через WebRTC (Data Channels) с использованием IndexedDB. <a href="https://blog.kaurcev.dev/50o2AqBnlV4" rel="nofollow" target="_blank">Статья о написании</a>&nbsp;и <a href="https://chat.kaurcev.dev" rel="nofollow" target="_blank">рабочий прототип</a></p></li><li><strong>Авторство open-source решения</strong>&nbsp;— NPM-пакет&nbsp;<a href="https://www.npmjs.com/package/yoomoney-widget" rel="nofollow" target="_blank">yoomoney-widget</a>.<p>Оптимизированная интеграция платежных форм.</p></li></ul>
-<p><em>Подробнее: https://kaurcev.dev<br>Имеется технический канал где я рассказываю обо всём:&nbsp;https://t.me/s/typicalfolder</em></p>
+*— мне не хватает времени доработать репозитории —*
 
-> резюме на [career.habr.com](https://career.habr.com/kaurcev/print.pdf)
+---
+
+### Технологии
+
+**Frontend**  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat&logo=webrtc)
+![IndexedDB](https://img.shields.io/badge/IndexedDB-333333?style=flat&logo=indexeddb)
+
+**Backend**  
+![.NET](https://img.shields.io/badge/.NET-6.0--8.0-512BD4?style=flat&logo=dotnet)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logo=dotnet)
+![.NET Framework](https://img.shields.io/badge/.NET_Framework-4.0-512BD4?style=flat&logo=dotnet)
+
+**Базы данных**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+
+**Инфраструктура**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-555555?style=flat&logo=githubactions)
+
+---
+
+### Ключевые проекты и достижения
+
+- **Двукратный призёр чемпионата «Профессионалы»**  
+  Серебро: «Программные решения для бизнеса» (2023) и «Веб‑технологии» (2024)
+
+- **Автономная ETL‑система интеграции медицинских данных**  
+  Проектирование и реализация в условиях legacy‑стека с аутентификацией по  
+  ![RFC-7519](https://img.shields.io/badge/RFC--7519-JWT-000000?style=flat)
+
+- **Децентрализованный P2P‑мессенджер**  
+  ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat&logo=webrtc)
+  ![IndexedDB](https://img.shields.io/badge/IndexedDB-333333?style=flat&logo=indexeddb)  
+  [Статья](https://blog.kaurcev.dev/50o2AqBnlV4) · [Прототип](https://chat.kaurcev.dev)
+
+- **Open‑source NPM‑пакет** – [`yoomoney-widget`](https://www.npmjs.com/package/yoomoney-widget)  
+  ![NPM](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
+
+---
+
+### Ссылки
+
+- [kaurcev.dev](https://kaurcev.dev)  
+- [t.me/s/typicalfolder](https://t.me/s/typicalfolder) — технический канал  
+- [Резюме (PDF)](https://career.habr.com/kaurcev/print.pdf)
