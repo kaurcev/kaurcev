@@ -4,9 +4,6 @@
 *— мне не хватает времени доработать репозитории —*
 
 ---
-
-## Статистика GitHub
-
 ![Stats](https://github-readme-stats.vercel.app/api?username=kaurcev&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaurcev&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
 
