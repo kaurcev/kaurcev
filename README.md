@@ -75,24 +75,6 @@
 ### Методологии
 - SOLID, KISS, YAGNI, Clean Code.
 
----
-
-## Ключевые проекты
-
-**Автономная ETL-система интеграции медицинских данных**  
-Проектирование и реализация в условиях legacy-стека с аутентификацией по  
-![RFC-7519](https://img.shields.io/badge/RFC--7519-JWT-000000?style=flat)
-
-**Децентрализованный P2P-мессенджер**  
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat&logo=webrtc)
-![IndexedDB](https://img.shields.io/badge/IndexedDB-333333?style=flat&logo=indexeddb)  
-[Статья](https://blog.kaurcev.dev/50o2AqBnlV4) · [Прототип](https://chat.kaurcev.dev)
-
-**Open-source NPM-пакет** – [`yoomoney-widget`](https://www.npmjs.com/package/yoomoney-widget)  
-![NPM](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
-
----
-
 ## Контакты
 
 - [kaurcev.dev](https://kaurcev.dev)
