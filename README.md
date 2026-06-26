@@ -1,5 +1,5 @@
 # Александр Каурцев
-## Individual Contributor / IC · FullStack Developer · Software Engineer/Architect
+## Individual Contributor / IC • Фулстек разработчик • Архитектор программного обеспечения
 
 *— мне не хватает времени доработать репозитории —*
 
