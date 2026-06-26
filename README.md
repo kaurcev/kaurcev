@@ -1,4 +1,4 @@
-# Александр Каурцев | FullStack Developer | Software Engineer/Architect
+# Александр Каурцев | Individual Contributor / IC | FullStack Developer | Software Engineer/Architect
 
 *— мне не хватает времени доработать репозитории —*
 
