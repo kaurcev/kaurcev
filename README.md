@@ -5,10 +5,6 @@
 
 ---
 
-[Website](https://kaurcev.dev) · [Telegram-канал](https://t.me/s/typicalfolder) · [Резюме (PDF)](https://career.habr.com/kaurcev/print.pdf) · [NPM-пакеты](https://www.npmjs.com/~kaurcev)
-
----
-
 ## Статистика GitHub
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=kaurcev&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
