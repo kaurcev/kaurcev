@@ -1,5 +1,5 @@
 # Александр Каурцев
-## Individual Contributor / IC • Фулстек разработчик • Архитектор программного обеспечения
+## Individual Contributor / IC • Middle Fullstack TypeScript Developer (React / Node.js)
 
 *— мне не хватает времени доработать репозитории —*
 
