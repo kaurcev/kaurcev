@@ -1,5 +1,5 @@
 # Александр Каурцев
-## Individual Contributor / IC • Middle Fullstack TypeScript Developer (React / Node.js)
+## Individual Contributor / IC Fullstack TS Developer | Creator of [linkmeet.ru](https://linkmeet.ru)
 
 *— мне не хватает времени доработать репозитории —*
 
