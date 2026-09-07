@@ -1,5 +1,5 @@
 # Александр Каурцев
-## Individual Contributor / IC Fullstack TS Developer | Creator of [linkmeet.ru](https://linkmeet.ru)
+## Individual Contributor / IC Fullstack TS Developer
 
 *— мне не хватает времени доработать репозитории —*
 
