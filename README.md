@@ -1,6 +1,8 @@
 # Александр Каурцев
 ## Individual Contributor / IC Fullstack TS Developer
 
+[![NPM](https://nodei.co/npm/yoomoney-widget.svg?data=d)](https://www.npmjs.com/package/yoomoney-widget)
+
 *— мне не хватает времени доработать репозитории —*
 
 ---
